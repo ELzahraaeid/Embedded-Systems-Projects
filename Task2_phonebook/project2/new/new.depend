@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1618879443 source:d:\new\new\main.c
+	<stdio.h>
+	"menu.h"
+
+1618855815 d:\new\new\menu.h
+
+1618917347 source:d:\new\new\menu.c
+	<stdio.h>
+	"options.h"
+
+1618879839 d:\new\new\options.h
+
+1618926755 source:d:\new\new\options.c
+	<stdio.h>
+	"implement_struct.h"
+
+1618856562 d:\new\new\implement_struct.h
+
+1618879443 source:d:\project2\new\main.c
+	<stdio.h>
+	"menu.h"
+
+1618855815 d:\project2\new\menu.h
+
+1618917347 source:d:\project2\new\menu.c
+	<stdio.h>
+	"options.h"
+
+1618879839 d:\project2\new\options.h
+
+1618926755 source:d:\project2\new\options.c
+	<stdio.h>
+	"implement_struct.h"
+
+1618856562 d:\project2\new\implement_struct.h
+

@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1620704237 source:d:\zahra\faculty_years\elzahraa 4\second semester\embeded_electronics\assignments\assignment_3_msra\try_code\try\main.c
+	<stdio.h>
+	"menu.h"
+
+1620711187 d:\zahra\faculty_years\elzahraa 4\second semester\embeded_electronics\assignments\assignment_3_msra\try_code\try\menu.h
+	"typedef.h"
+
+1620721345 d:\zahra\faculty_years\elzahraa 4\second semester\embeded_electronics\assignments\assignment_3_msra\try_code\try\typedef.h
+
+1620714787 source:d:\zahra\faculty_years\elzahraa 4\second semester\embeded_electronics\assignments\assignment_3_msra\try_code\try\menu.c
+	<stdio.h>
+	<stdlib.h>
+	"options.h"
+	"menu.h"
+	"typedef.h"
+
+1620714928 d:\zahra\faculty_years\elzahraa 4\second semester\embeded_electronics\assignments\assignment_3_msra\try_code\try\options.h
+
+1620723408 source:d:\zahra\faculty_years\elzahraa 4\second semester\embeded_electronics\assignments\assignment_3_msra\try_code\try\options.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"options.h"
+	"menu.h"
+	"implement_struct.h"
+
+1618856562 d:\zahra\faculty_years\elzahraa 4\second semester\embeded_electronics\assignments\assignment_3_msra\try_code\try\implement_struct.h
+
